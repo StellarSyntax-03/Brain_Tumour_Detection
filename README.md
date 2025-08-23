@@ -1,1 +1,1 @@
-# Brain_Tumour_Detection
+# Brain-Tumor-Detection-Using-Deep-Learning-MRI-Images-Detection-Using-Computer-Vision
